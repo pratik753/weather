@@ -5,13 +5,13 @@ body {
     height: 100vh;
     margin: 0;
     font-family: 'Open Sans', sans-serif;
-    background: rgb(105, 100, 100);
+    background: #222;
     background-image: url('https://source.unsplash.com/1600x900/?landscape');
     font-size: 120%;
   }
   
   .card {
-    background: #5d4c4cd0;
+    background: #000000d0;
     color: white;
     padding: 2em;
     border-radius: 30px;
